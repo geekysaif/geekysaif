@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/PatilShreyas/PatilShreyas/blob/master/welcome.png?raw=true" height="200" />
+<img src="https://github.com/geekysaif/geekysaif/blob/master/welcome.jpg?raw=true" height="200" />
 </p>
 
 # Hi there👋! I'm [MOHD SAIF ALAM](http://mohdsaifalam.000webhostapp.com/PORTFOLIO/) 🙋‍♂️
