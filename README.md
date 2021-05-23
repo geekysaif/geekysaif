@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/geekysaif/geekysaif/blob/master/welcome.png?raw=true" height="200" />
+  <img src="https://github.com/geekysaif/height="200" />
 </p>
 
 # Hi there👋! I'm [Saif](http://mohdsaifalam.000webhostapp.com/PORTFOLIO/) 🙋‍♂️
