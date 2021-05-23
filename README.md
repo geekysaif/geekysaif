@@ -25,12 +25,10 @@
 * My primary coding language: Android(java/Kotlin)
 * Earned First badge in Android programming at college comeptioin(zonal level).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-
-<!--* I am currently learning Flutter>
-<!--* I’m currently working on my portfolio. -->
-<!-- * Ask me about anything, I'll be happy to help.-->
-<!-- -->
-<!--* I'm looking to collaborate on Open source projects-->
+* I am currently learning Flutter.
+* I’m currently working on my portfolio.
+* Ask me about anything, I'll be happy to help.
+* I'm looking to collaborate on Open source projects.
 
 ---
 
@@ -38,13 +36,12 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [What is Git and Github? | Git vs GitHub](https://ayushirawat.com/what-is-git-and-github-or-git-vs-github)
-- [Best Podcasts for Python](https://ayushirawat.com/best-podcasts-for-python)
-- [Automate Cowin Vaccine slots Availability using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
-- [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
-- [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
+- [Kotlin MutliView type](https://github.com/geekysaif/KotlinMultiViewType)
+- [Best Tiffin service ui](https://github.com/geekysaif/Tiffy_Tiffin_Service_Provider_App)
+- [Automate Image loader using Kotlin - coil](https://github.com/geekysaif/Kotlin-Coil-)
+- [Implement Kotlin Google Maps](https://github.com/geekysaif/KotlinMap)
+- [Android Face /  text Detectionusing firebase](https://github.com/geekysaif/MLTextFaceDetection)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
  
 
