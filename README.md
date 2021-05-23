@@ -3,10 +3,9 @@
   <img src="https://github.com/geekysaif/height="200" />
 </p>
 
-# Hi there👋! I'm [Saif](http://mohdsaifalam.000webhostapp.com/PORTFOLIO/) 🙋‍♂️
+# Hi there👋! I'm [MOHD SAIF ALAM](http://mohdsaifalam.000webhostapp.com/PORTFOLIO/) 🙋‍♂️
 
  
-
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Flutter_ 🥽.
 
 #### 🎍 Welcome to my hub 👨‍💻
@@ -16,7 +15,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Flutter_ 🥽.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Flutter!
 - 🌐 Little bit exploring Web development too.
-- Loves 🎵 and 🎹.
+- Loves 🎵 and Travelling.
 - Proud 🇮🇳.
 
 <details>
