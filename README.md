@@ -32,5 +32,5 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Flutter_ 🥽.
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:developersaif25@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/SAIFALAM0025)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mohd-saif-alam-2b633b126/)
-[![Facebook](https://img.shields.io/badge/-Facebookblack?style=for-the-badge&logo=facebook)](https://www.facebook.com/geekysaifalam/)
+[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/geekysaifalam/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/geekysaif/)
