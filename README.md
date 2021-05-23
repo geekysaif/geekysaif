@@ -21,6 +21,7 @@
 
  
 
+* Professionally I have been working on Android for 3+ years but I have been an Android enthusiast since I made my first hello world app in the year 2016.
 * My primary coding language: Android(java/Kotlin)
 * Earned First badge in Android programming at college comeptioin(zonal level).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
