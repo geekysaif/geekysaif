@@ -21,18 +21,15 @@
 
  
 
-* My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* My primary coding language: Android(java/Kotlin)
+* Earned First badge in Android programming at college comeptioin(zonal level).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
-<!--* 🏠 Hogwarts House: Griffindor-->
-<!--* If you play Call of Duty- add me: Blackhood@00-->
-<!--* I am currently learning Docker-->
+
+<!--* I am currently learning Flutter>
 <!--* I’m currently working on my portfolio. -->
 <!-- * Ask me about anything, I'll be happy to help.-->
 <!-- -->
-<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
+<!--* I'm looking to collaborate on Open source projects-->
 
 ---
 
@@ -69,7 +66,7 @@
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{geekysaif}/count.svg)
 
 
 [twitter]: https://twitter.com/ayushi7rawat
