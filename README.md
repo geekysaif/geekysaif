@@ -1,9 +1,9 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am MOHD SAIF ALAM](http://mohdsaifalam.000webhostapp.com/PORTFOLIO/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Facebook] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-![alt text](https://github.com/geekysaif/geekysaif/blob/main/cover.jpg)
+![alt text](https://github.com/geekysaif/geekysaif/blob/main/welcome.jpg)
 
 
 ### My Tech Toolbox 🧰
@@ -45,23 +45,12 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
-<td valign="top" width="50%">
-
-### My Latest YouTube Videos 🌱
-<!-- YOUTUBE:START -->
-- [What is Git and GitHub? ](https://www.youtube.com/watch?v=nWIAc-9EFdg)
-- [How to Develop & Showcase Soft Skills ](https://www.youtube.com/watch?v=bLcjvkMTRyo)
-- [Top 5 Podcasts for Python ](https://www.youtube.com/watch?v=jAOkWehMF6E)
-- [How to Automate CoWin Vaccine Notifier using Python ](https://www.youtube.com/watch?v=HrTQqSKWClE)
-- [What is Competitive Programming ](https://www.youtube.com/watch?v=C0YFYXfaEDM)
-<!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
-</td>
+ 
 
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geekysaif&show_icons=true&theme=gotham" alt="Mohd Saif Alam | Stats" />
 
 </details>
 
@@ -70,11 +59,10 @@
 
 
 [twitter]: https://twitter.com/ayushi7rawat
-[youtube]: https://youtube.com/ayushirawat
-[Hashnode]: https://ayushirawat.com
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/ayushi7rawat/
 [Medium]: https://medium.com/@ayushi7rawat
-[Facebook]: https://www.facebook.com/ayushi7rawat
+[Facebook]: https://www.facebook.com/geekysaifalam
+[Facebook]: https://www.facebook.com/geekysaifalam
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
