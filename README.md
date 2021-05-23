@@ -1,6 +1,7 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am MOHD SAIF ALAM](http://mohdsaifalam.000webhostapp.com/PORTFOLIO/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][Facebook] 
+[<img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">][Instagram] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 ![alt text](https://github.com/geekysaif/geekysaif/blob/main/cover.jpg)
@@ -58,11 +59,11 @@
  ![Visitor Count](https://profile-counter.glitch.me/{geekysaif}/count.svg)
 
 
-[twitter]: https://twitter.com/ayushi7rawat
+[twitter]: https://twitter.com/SAIFALAM0025
 [gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
+[linkedin]: https://www.linkedin.com/in/mohd-saif-alam-2b633b126/
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/geekysaifalam
-[Facebook]: https://www.facebook.com/geekysaifalam
+[Instagram]: https://www.instagram.com/geekysaif/
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
