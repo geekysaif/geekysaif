@@ -58,7 +58,7 @@
 
 [twitter]: https://twitter.com/SAIFALAM0025
 [gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/mohd-saif-alam-2b633b126/
+[linkedin]: https://www.linkedin.com/in/geekysaif/
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/geekysaifalam
 [Instagram]: https://www.instagram.com/geekysaif/
