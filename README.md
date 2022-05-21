@@ -25,7 +25,7 @@
 * My primary coding language: Android(java/Kotlin)
 * Earned First badge in Android programming at college comeptioin(zonal level).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* I am currently learning Flutter.
+* I am also working on Flutter.
 * I’m currently working on my portfolio.
 * Ask me about anything, I'll be happy to help.
 * I'm looking to collaborate on Open source projects.
