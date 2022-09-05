@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am MOHD SAIF ALAM](http://mohdsaifalam.000webhostapp.com/PORTFOLIO/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am MOHD SAIF ALAM](http://stellar-cab.000webhostapp.com/geekysaif/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][Facebook] 
 [<img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">][Instagram] 
@@ -21,7 +21,7 @@
 
  
 
-* Professionally I have been working on Android for 3+ years but I have been an Android enthusiast since I made my first hello world app in the year 2016.
+* Professionally I have been working on Android for 4+ years but I have been an Android enthusiast since I made my first hello world app in the year 2016.
 * My primary coding language: Android(java/Kotlin)
 * Earned First badge in Android programming at college comeptioin(zonal level).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
@@ -59,7 +59,7 @@
 [twitter]: https://twitter.com/SAIFALAM0025
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/geekysaif/
-[Medium]: https://medium.com/@ayushi7rawat
+[Medium]: https://medium.com/
 [Facebook]: https://www.facebook.com/geekysaifalam
 [Instagram]: https://www.instagram.com/geekysaif/
 
