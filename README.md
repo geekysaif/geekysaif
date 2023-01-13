@@ -21,14 +21,49 @@
 
  
 
-* Professionally I have been working on Android for 4+ years but I have been an Android enthusiast since I made my first hello world app in the year 2016.
-* My primary coding language: Android(java/Kotlin)
-* Earned First badge in Android programming at college comeptioin(zonal level).
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* I am also working on Flutter.
-* I’m currently working on my portfolio.
-* Ask me about anything, I'll be happy to help.
-* I'm looking to collaborate on Open source projects.
+5 years Experience in Android App Development
+& Experience in Flutter App Development
+
+-Worked on more than 20+ android application based on GPS Tracking, Payment Gateways, Push Notification, Third party libraries etc.
+
+Programming language: Java, Kotlin, Dart(For Flutter)
+Architecture Pattern: MVC, MVP, MVVM
+Network Library: Retrofit, okHttp
+Database: Sqlite, Room, Firebase Realtime Database
+Repositories: Git & Bitbucket
+Payment Gateways: Razor pay, PayU Money, Stripe, Paytm etc
+
+Other Skills:
+-AWS amplify
+-RxJava & RxAndroid
+-Androidx Components
+-GCM/FCM
+-Crashlytic & Analytic
+-Social Media Integration: Facebook, LinkedIn, Instagram, Twitter etc
+-Deep linking
+-Dagger
+Software Exposure:
+-Eclipse
+-Android Studio
+
+Other Qualities:
+-Good in code optimization
+-Handled team
+-Do client communication
+-Enjoying learning new tools and technologies
+-Believe in first planning and then Integrating
+
+Apart from writing codes, I also love to travelling a lot. Love Listening music to keep my calm always up ( to be honest, I am very bad at singing..😅).
+
+A good listener and an effective speaker.
+Strong believer of Karma and Law of attraction.
+Live with ethics, discipline and punctuality in life.
+Overall a complete enthusiastic, energetic and positive package.
+
+Live ✌️, Love ♥️, Laugh 😂
+It's a beautiful life 🌈
+
+Thanks a lot for visiting my profile.💥
 
 ---
 
