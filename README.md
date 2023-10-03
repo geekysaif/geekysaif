@@ -1,101 +1,34 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am MOHD SAIF ALAM]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][Facebook] 
-[<img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">][Instagram] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<h1 align="center">Hi 👋, I'm SAiF</h1>
+<h3 align="center">A passionate mobile developer from India</h3>
 
-![alt text](https://github.com/geekysaif/geekysaif/blob/main/cover.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysaif&label=Profile%20views&color=0e75b6&style=flat" alt="geekysaif" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekysaif" alt="geekysaif" /></a> </p>
 
-### My Tech Toolbox 🧰
+<p align="left"> <a href="https://twitter.com/geekysaif" target="blank"><img src="https://img.shields.io/twitter/follow/geekysaif?logo=twitter&style=for-the-badge" alt="geekysaif" /></a> </p>
 
+- 🌱 I’m currently learning **Jetpack Compose, KMM, Flutter**
+
+- 👨‍💻 All of my projects are available at [https://github.com/geekysaif](https://github.com/geekysaif)
+
+- 💬 Ask me about **Kotlin, Android, Firebase, Java, XML, Payment Gateway Integration, Room DB and third parties libraries integration**
+
+- 📫 How to reach me **geekysaif@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__android_-512.png" alt="Android" width="40" height="40"/> 
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png" alt="Java" height="40"/> 
-<img src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-kotlin-128.png" alt="Kotlin" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="Firebase" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flutter-128.png" alt="Flutter" width="40" height="40"/>
+<a href="https://twitter.com/geekysaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekysaif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/geekysaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geekysaif" height="30" width="40" /></a>
+<a href="https://fb.com/geekysaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekysaif" height="30" width="40" /></a>
+<a href="https://instagram.com/geekysaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekysaif" height="30" width="40" /></a>
+<a href="https://medium.com/geekysaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="geekysaif" height="30" width="40" /></a>
 </p>
 
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-5 years Experience in Android App Development
-& Experience in Flutter App Development
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekysaif&show_icons=true&locale=en&layout=compact" alt="geekysaif" /></p>
 
--Worked on more than 20+ android application based on GPS Tracking, Payment Gateways, Push Notification, Third party libraries etc.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekysaif&show_icons=true&locale=en" alt="geekysaif" /></p>
 
-Programming language: Java, Kotlin, Dart(For Flutter)
-Architecture Pattern: MVC, MVP, MVVM
-Network Library: Retrofit, okHttp
-Database: Sqlite, Room, Firebase Realtime Database
-Repositories: Git & Bitbucket
-Payment Gateways: Razor pay, PayU Money, Stripe, Paytm etc
-
-Other Skills:
--AWS amplify
--RxJava & RxAndroid
--Androidx Components
--GCM/FCM
--Crashlytic & Analytic
--Social Media Integration: Facebook, LinkedIn, Instagram, Twitter etc
--Deep linking
--Dagger
-Software Exposure:
--Eclipse
--Android Studio
-
-Other Qualities:
--Good in code optimization
--Handled team
--Do client communication
--Enjoying learning new tools and technologies
--Believe in first planning and then Integrating
-
-Apart from writing codes, I also love to travelling a lot. Love Listening music to keep my calm always up ( to be honest, I am very bad at singing..😅).
-
-A good listener and an effective speaker.
-Strong believer of Karma and Law of attraction.
-Live with ethics, discipline and punctuality in life.
-Overall a complete enthusiastic, energetic and positive package.
-
-Live ✌️, Love ♥️, Laugh 😂
-It's a beautiful life 🌈
-
-Thanks a lot for visiting my profile.💥
-
----
-
-<table><tr><td valign="top" width="50%">
-
-### My Latest Blog Posts 🌱
-<!-- BLOG-POST-LIST:START -->
-- [Kotlin MutliView type](https://github.com/geekysaif/KotlinMultiViewType)
-- [Best Tiffin service ui](https://github.com/geekysaif/Tiffy_Tiffin_Service_Provider_App)
-- [Automate Image loader using Kotlin - coil](https://github.com/geekysaif/Kotlin-Coil-)
-- [Implement Kotlin Google Maps](https://github.com/geekysaif/KotlinMap)
-- [Android Face /  text Detectionusing firebase](https://github.com/geekysaif/MLTextFaceDetection)
-<!-- BLOG-POST-LIST:END -->
-</td>
- 
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geekysaif&show_icons=true&theme=gotham" alt="Mohd Saif Alam | Stats" />
-
-</details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{geekysaif}/count.svg)
-
-
-[twitter]: https://twitter.com/SAIFALAM0025
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/geekysaif/
-[Medium]: https://medium.com/
-[Facebook]: https://www.facebook.com/geekysaifalam
-[Instagram]: https://www.instagram.com/geekysaif/
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekysaif&" alt="geekysaif" /></p>
