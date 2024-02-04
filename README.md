@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysaif&label=Profile%20views&color=0e75b6&style=flat" alt="geekysaif" /> </p>
 
-<p align="left"> <a href="[[https://twitter.com/geekysaif](https://www.instagram.com/geekysaif)](https://www.instagram.com/geekysaif)" target="blank"><img src="https://img.shields.io/twitter/follow/geekysaif?logo=instagram&style=for-the-badge" alt="geekysaif" /></a> </p>
+<p align="left"> <a href="[[https://twitter.com/geekysaif](https://www.instagram.com/geekysaif)](https://www.instagram.com/geekysaif)" target="blank"><img src="[https://img.shields.io/twitter/follow/geekysaif](https://twitter.com/geekysaif)?logo=instagram&style=for-the-badge" alt="geekysaif" /></a> </p>
 
 - 🌱 I’m currently learning **Jetpack Compose, KMM, Flutter**
 
