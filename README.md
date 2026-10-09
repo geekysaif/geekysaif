@@ -5,7 +5,72 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysaif&label=Profile%20views&color=0e75b6&style=flat" alt="geekysaif" /> </p>
 
  
+<div align="center">
 
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24,31&height=240&section=header&text=SAiF%20%E2%9A%A1&fontSize=65&fontAlignY=36&desc=Mobile%20Engineer%20%7C%20Android%20%E2%80%A2%20Jetpack%20Compose%20%E2%80%A2%20KMM%20%E2%80%A2%20Flutter&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+
+<!-- Dynamic Animated Typing SVG -->
+<a href="https://github.com/geekysaif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting+High-Performance+Mobile+Experiences+%F0%9F%93%B1;Android+%E2%80%A2+Kotlin+%E2%80%A2+Jetpack+Compose+%E2%9A%A1;Cross-Platform+Maverick%3A+KMM+%2B+Flutter+%F0%9F%8C%90;Clean+Architecture+%E2%80%A2+MVVM%2FMVI+%E2%80%A2+Coroutines;Fintech+%26+Payment+Gateways+Specialist+%F0%9F%92%B3;Turning+Complex+Logic+Into+Silky+Smooth+UIs+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Real-Time Interactive Badges -->
+<p align="center">
+  <a href="https://github.com/geekysaif">
+    <img src="https://img.shields.io/github/followers/geekysaif?label=Followers&style=for-the-badge&logo=github&color=24292e&logoColor=white" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:geekysaif@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-success?style=for-the-badge&logo=googlechat&logoColor=white" alt="Status" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=geekysaif&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<!-- Quick Social Links Banner -->
+<p align="center">
+  <a href="https://linkedin.com/in/geekysaif" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/geekysaif" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@geekysaif" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:geekysaif@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/geekysaif" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/geekysaif" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 `whoami` — Mobile Software Architect
+
+```kotlin
+val saif = MobileEngineer(
+    name = "Saif",
+    basedIn = "India 🇮🇳",
+    coreDiscipline = setOf("Android Native", "Kotlin Multiplatform (KMM)", "Flutter"),
+    architecturalMindset = listOf("Clean Architecture", "MVI / MVVM", "Unidirectional Data Flow"),
+    craft = listOf(
+        "Reactive streams with Kotlin Coroutines & Flow",
+        "Modern declarative UIs with Jetpack Compose",
+        "Robust offline caching with Room & SQLDelight",
+        "Enterprise cloud sync & real-time telemetry via Firebase",
+        "Secure payments (Stripe, Razorpay, In-App Billing)"
+    ),
+    mission = "Engineering fluid, resilient mobile solutions that millions love to use 🚀"
+)
 - 🌱 I’m currently learning **Jetpack Compose, KMM, Flutter**
 
 - 👯 I’m looking to collaborate on **app development events**
